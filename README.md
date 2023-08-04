@@ -1,5 +1,7 @@
 # Jay Mansmann
-5 years of professional coding experience, 7 years of professional teaching experience
+5 years of professional coding experience
+
+7 years of professional teaching experience
 
 ## Tech Skills
 1. JavaScript
@@ -19,6 +21,7 @@
 
 ### Crown Equipment
 Application Developer 3 && Team Lead
+
 2018-2022
 - Led team of full-stack Java/Spring Boot/Angular developers
 - Architected and coded several microservices and microfrontends
@@ -29,17 +32,20 @@ Application Developer 3 && Team Lead
 
 ### Flatiron School
 Instructor 3
+
 2022-Present
 - Led Java/Spring Boot/Angular course for BlackRock
 - Currently teaching JavaScript/React/Python/Flask course for Amazon
 
 ### Wyzant
 Tutor
+
 2017-2021ish
 - Guided students through boot camp and college coding projects
 
 ### Various Schools in China
 Instructor
+
 2012-2017
 - Prepared students for IELTS and TOEFL
 - Taught Oral English, Newspaper Reading, Cross-Culture Communication, and Writing to all ages
@@ -48,6 +54,7 @@ Instructor
 
 ### Fast Track'd
 Full-Stack Web Development Boot Camp
+
 2017
 - Learned Spring Boot and AngularJS
 - Created core Java and JavaScript command-line chat app
@@ -56,6 +63,7 @@ Full-Stack Web Development Boot Camp
 
 ### Purdue University
 Philosophy, BA, with Distinction and College of Liberal Arts Honors
+
 2008-2012
 - Minored in Linguistics and Classical Studies
 - Graduated in top 10% of class
