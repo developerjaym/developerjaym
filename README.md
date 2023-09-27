@@ -14,7 +14,7 @@
 8. Angular
 9. React
 10. Spring Boot
-11. Flask (I'm currently learning Flask)
+11. Flask
 12. Git
 
 ## Coding Experience
