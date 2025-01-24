@@ -1,5 +1,5 @@
 # Jay Mansmann
-5 years of professional coding experience
+6 years of professional coding experience
 
 7 years of professional teaching experience
 
@@ -16,8 +16,16 @@
 10. Spring Boot
 11. Flask
 12. Git
+13. Terraform
+14. AWS
 
 ## Coding Experience
+
+### Contracting
+Java Developer
+
+2024-Present
+-Modernized apps
 
 ### Crown Equipment
 Application Developer 3 && Team Lead
@@ -33,9 +41,9 @@ Application Developer 3 && Team Lead
 ### Flatiron School
 Instructor 3
 
-2022-Present
+2022-2023
 - Led Java/Spring Boot/Angular course for BlackRock
-- Currently teaching JavaScript/React/Python/Flask course for Amazon
+- Taught JavaScript/React/Python/Flask course for Amazon
 
 ### Wyzant
 Tutor
